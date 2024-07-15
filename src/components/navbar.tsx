@@ -18,7 +18,7 @@ const Navbar = () => {
             </Link>
           </div>
           <div className="flex items-center">
-            <ClerkLoading>
+            <ClerkLoading  >
               <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-gray-900"></div>
             </ClerkLoading>
             <ClerkLoaded>
